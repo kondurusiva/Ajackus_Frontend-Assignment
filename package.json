@@ -1,0 +1,13 @@
+{
+  "name": "ajackus_frontend-assighnment",
+  "version": "1.0.0",
+  "description": "A responsive and interactive Employee Directory frontend built with **HTML, CSS, JavaScript**, and **Freemarker templates**. This project simulates a full-fledged employee management dashboard with client-side data handling, filtering, sorting, and pagination.",
+  "main": "script.js",
+    "scripts": {
+  "start": "node index.js"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
